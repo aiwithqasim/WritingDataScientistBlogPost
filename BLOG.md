@@ -48,24 +48,32 @@ below diagram.
 Above we can see that the price of rent begins to slowly rise as the year progresses, with the highest mean cost of rent being in Autumn.
 If we have a look at our 2 standouts mentioned above (Cambridge & Financial District) can we notice a similar pattern in the fluctuations.
 
-Cambridge
+<b>Cambridge</b>
 
 Firstly looking at our worst reviewed Neighbourhood, Cambridge, I expected to see a lower cost of rental and less than normal fluctuation 
 in price. Cambridge saw a total of 730 reviews, meaning they have had a fair few rentals in the year. This was the average price 
 fluctuation the neighbourhood saw.
 
-
+<img src = "images/Cambridge cost per month.PNG" alt = "Cambridge cost per month">
 
 We can see a lack of any obvious trend in the graph, meaning the neighbourhood doesn’t seem to have any ‘hot’ months for tourists.
-Financial District
+
+<b>Financial District</b>
+
 In comparison, the Financial District with all rooms scoring a perfect score from over 1400 reviews, is a much more in demand area to stay. I was expecting to see some clear cut trends on pricing and demand.
+
+<img src = "images/FinancialDistrictCostPerMonth.PNG" alt = "FinancialDistrictCostPerMonth">
 
 Not only is there an obvious trend toward higher prices in summer, meaning more demand for rental, but we can see the price significantly increases to the average Boston rental cost of ~$200 a night. To put this into perspective, here the two Neighbourhoods are when mapped next to each other:
 
-Question 3: Crime impact on Price & Rental
+<img src = "images/RentPerMonth.PNG" alt = "RentPerMonth">
 
-Random sample Heat map of 100 Crimes in Boston
+<b> Question 3: Crime impact on Price & Rental </b>
+
+<img src = "heatmap.png" alt = "Heatmap">
+
 Looking at our final data breakdown of the data from Boston’s AirBnb rental, I wanted to understand the trends between crime and rental price/availability. The above heatmap shows a random sample of over 1000 crimes in the City, which seems to show a high density of activity coming from the Southern Neighbourhoods in Boston. To be confident the random sample is somewhat correct in showing trends, we can look at the total incident counts per neighbourhood:
+
 Neighbourhood
 Brighton         12763
 Charlestown       4155
@@ -79,6 +87,7 @@ Roxbury          31230
 South Boston     14357
 South End        26291
 West Roxbury      8329
+
 I have highlighted our highest counts for crimes in certain neighbourhoods, which means we can assume these areas are the most violent. All 3 neighbourhoods are actually next to each other in the Southern region of the city. For the sake of it, lets first look at our highest and lowest incident count, and compare price/availability of AirBnb rentals.
 Charlestown being the lowest with only 4155 incident counts over the year in comparison to Roxbury with 31,230, has almost 8x less the amount of crime in the area.
 
