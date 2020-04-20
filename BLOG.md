@@ -13,21 +13,24 @@ Hence, I was curious to see how AirBnb fairs in the big city with customers and 
 
 <i>
 I have broken this down into 3 questions:
-
-1.What are the most popular areas amongst customers?
-2.How does pricing fluctuations trend between seasonal periods?
-3.Does Crime have an impact of pricing and rental ability?
+<ol>
+<li>What are the most popular areas amongst customers? <li>
+<li>How does pricing fluctuations trend between seasonal periods?<li>
+<li>Does Crime have an impact of pricing and rental ability?<li>
+</ol>
 </i>
 
 <h3>Question 1: Popular Areas </h3>
 
 AirBnb has several review categories that a customer can rate the accommodation based on:
--Accuracy of the Ad
--Cleanliness of the room
--Check in — was it easy?
--Communication with the owner
--Value
--Location
+<ul>
+<li>Accuracy of the Ad<li>
+<li>Cleanliness of the room<li>
+<li>Check in — was it easy?<li>
+<li>Communication with the owner<li>
+<li>Value<li>
+<li>Location<li>
+  </ul>
 Combining all these scores gives a total review score out of 10. Scores have been grouped and calculated as a mean of the Neighbourhood.
 We can see most neighbourhoods score very highly in Boston:
 
@@ -54,9 +57,7 @@ If we have a look at our 2 standouts mentioned above (Cambridge & Financial Dist
 
 <h3>Cambridge</h3>
 
-Firstly looking at our worst reviewed Neighbourhood, Cambridge, I expected to see a lower cost of rental and less than normal fluctuation 
-in price. Cambridge saw a total of 730 reviews, meaning they have had a fair few rentals in the year. This was the average price 
-fluctuation the neighbourhood saw.
+Firstly looking at our worst reviewed Neighbourhood, Cambridge, I expected to see a lower cost of rental and less than normal fluctuation in price. Cambridge saw a total of 730 reviews, meaning they have had a fair few rentals in the year. This was the average price fluctuation the neighbourhood saw.
 
 <img src = "images/Cambridge cost per month.PNG" alt = "Cambridge cost per month">
 
