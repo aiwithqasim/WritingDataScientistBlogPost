@@ -63,7 +63,7 @@ Firstly looking at our worst reviewed Neighbourhood, Cambridge, I expected to se
 
 We can see a lack of any obvious trend in the graph, meaning the neighbourhood doesn’t seem to have any ‘hot’ months for tourists.
 
-<h3>Financial District<h3>
+<h3>Financial District</h3>
 
 In comparison, the Financial District with all rooms scoring a perfect score from over 1400 reviews, is a much more in demand area to stay. I was expecting to see some clear cut trends on pricing and demand.
 
@@ -79,21 +79,7 @@ Not only is there an obvious trend toward higher prices in summer, meaning more 
 
 Looking at our final data breakdown of the data from Boston’s AirBnb rental, I wanted to understand the trends between crime and rental price/availability. The above heatmap shows a random sample of over 1000 crimes in the City, which seems to show a high density of activity coming from the Southern Neighbourhoods in Boston. To be confident the random sample is somewhat correct in showing trends, we can look at the total incident counts per neighbourhood:
 
-<h4>
-Neighbourhood
-Brighton         12763
-Charlestown       4155
-Dorchester       26989
-Downtown         22304
-East Boston       8255
-Hyde Park        10840
-Jamaica Plain    11077
-Mattapan         22397
-Roxbury          31230
-South Boston     14357
-South End        26291
-West Roxbury      8329
-</h4>
+<img src ="images/IncidentCountPerNeighbourhood .PNG" alt="IncidentCountPerNeighbourhood">
 
 I have highlighted our highest counts for crimes in certain neighbourhoods, which means we can assume these areas are the most violent. All 3 neighbourhoods are actually next to each other in the Southern region of the city. For the sake of it, lets first look at our highest and lowest incident count, and compare price/availability of AirBnb rentals.
 
