@@ -28,7 +28,7 @@ AirBnb has several review categories that a customer can rate the accommodation 
 Combining all these scores gives a total review score out of 10. Scores have been grouped and calculated as a mean of the Neighbourhood.
 We can see most neighbourhoods score very highly in Boston:
 
-<img src = "images/ReviewScore.PNG" alt = "Average Total Review Score">
+<img src = "images/Review Score.PNG" alt = "Average Total Review Score">
 
 This graph shows us that a few of the areas a slight standouts for reviews, with neighbourhoods such as Financial District scoring a 
 perfect 10/10 for all factors. It can also be seen that Cambridge scored a relatively low score in comparison to the average 
@@ -42,7 +42,7 @@ I expected to see obvious spikes in the cost of rent as the summer months approa
 breaking the data down. Firstly, a glimpse into average cost of rent per month of all neighbourhoods looks a little like the 
 below diagram.
 
-<img src = "imgaes/Averagecost.PNG" alt = "Average Cost of All Neighbours">
+<img src = "imgaes/Average cost.PNG" alt = "Average Cost of All Neighbours">
 
 
 Above we can see that the price of rent begins to slowly rise as the year progresses, with the highest mean cost of rent being in Autumn.
