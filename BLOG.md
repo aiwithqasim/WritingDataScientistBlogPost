@@ -1,10 +1,10 @@
-<style>
-p::first-letter {
+
+<p <style ="
+  first-letter {
   color: #ff0000;
-  font-size: xx-large;
+  font-size: xx-large;"
 }
-</style>
-<p>In the blog post, I will examine how Boston’s neighbourhoods are affected by seasonal price fluctuations and also have a look into 
+</style>>In the blog post, I will examine how Boston’s neighbourhoods are affected by seasonal price fluctuations and also have a look into 
 whether or not crime may have anything to do with differences in price and availability of AirBnB rentals.</p>
 
 <img src = "images/airbnb.PNG" alt = "Image of Airbnb">
