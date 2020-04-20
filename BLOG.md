@@ -89,14 +89,24 @@ South End        26291
 West Roxbury      8329
 
 I have highlighted our highest counts for crimes in certain neighbourhoods, which means we can assume these areas are the most violent. All 3 neighbourhoods are actually next to each other in the Southern region of the city. For the sake of it, lets first look at our highest and lowest incident count, and compare price/availability of AirBnb rentals.
+
 Charlestown being the lowest with only 4155 incident counts over the year in comparison to Roxbury with 31,230, has almost 8x less the amount of crime in the area.
 
+<img src = "images/RentPerMonth.PNG" alt = "RentPerMonth">
+
 Here we can see that Charlestown has a higher price over the year, with Roxbury only coming close during the Summer months. Roxbury also had a significantly higher availability rate of rentals at 58% available, compared to Charlestown at 53%. We can therefore assume that Charlestown is a slightly more in demand area in comparison, however before assuming this has anything to do with crime we can do a deeper dive into the breakdown of cost, availability and crimes amongst all areas first.
-Graphing our Totals (Price, Availability & Incidents)
+
+<h3>Graphing our Totals (Price, Availability & Incidents)<h3>
+  
+  <img src = "images/PriceAvalaiblityIncidentno.PNG" alt = "Price Avalaiblity Incident Number">
 
 A higher availability means that the properties in the neighbourhood are easier to rent and more available to people. Lower availability means that properties are more in demand and sell out quicker.
 
 
+<img src = "images/Incident Vs Prics.PNG" alt = "Incident Vs Prics">
+
 Having a look at all the neighbourhoods, the trends seem to be that the lower crime neighbourhoods are more expensive and are more difficult to rent in comparison to areas such as Dorchester, where incident counts and availability are high, but the price is low.
-If you would like to have a look into my breakdown of the data, the link to my Github repository is here.
+
+If you would like to have a look into my breakdown of the data, the link to my Github repository is <a href = "https://github.com/qasim1020/Writing-a-Data-Scientist-blog--Post/tree/Test">here</a>
+
 Thanks for taking the time to read this blog, I appreciate all feedback and critiques.
