@@ -42,7 +42,7 @@ I expected to see obvious spikes in the cost of rent as the summer months approa
 breaking the data down. Firstly, a glimpse into average cost of rent per month of all neighbourhoods looks a little like the 
 below diagram.
 
-<img src = "imgaes/Average cost.PNG" alt = "Average Cost of All Neighbours">
+<img src = "images/Average cost.PNG" alt = "Average Cost of All Neighbours">
 
 
 Above we can see that the price of rent begins to slowly rise as the year progresses, with the highest mean cost of rent being in Autumn.
