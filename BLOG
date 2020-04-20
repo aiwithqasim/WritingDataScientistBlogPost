@@ -1,7 +1,7 @@
 In the blog post, I will examine how Boston’s neighbourhoods are affected by seasonal price fluctuations and also have a look into 
 whether or not crime may have anything to do with differences in price and availability of AirBnB rentals.
 
-![image of airbnb]<img src = "https://github.com/qasim1020/Writing-a-Data-Scientist-blog--Post/blob/master/airbnb.PNG">
+<img src = "images/airbnb.PNG" alt = "Image of Airbnb">
 
 The data used for this blog comes from AirBnb Boston and the Boston Police department for Crimes around the city. These crimes include 
 every arrest made and are logged down under categories; such as homicide or assault.
