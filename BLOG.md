@@ -1,5 +1,5 @@
 
-<p <style ="first-letter {color: #ff0000;font-size: xx-large;"}>In the blog post, I will examine how Boston’s neighbourhoods are affected by seasonal price fluctuations and also have a look into 
+<b>I</b>n the blog post, I will examine how Boston’s neighbourhoods are affected by seasonal price fluctuations and also have a look into 
 whether or not crime may have anything to do with differences in price and availability of AirBnB rentals.</p>
 
 <img src = "images/airbnb.PNG" alt = "Image of Airbnb">
