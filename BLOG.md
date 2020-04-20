@@ -14,9 +14,9 @@ Hence, I was curious to see how AirBnb fairs in the big city with customers and 
 <i>
 I have broken this down into 3 questions:
 <ol>
-<li>What are the most popular areas amongst customers? <li>
-<li>How does pricing fluctuations trend between seasonal periods?<li>
-<li>Does Crime have an impact of pricing and rental ability?<li>
+<li>What are the most popular areas amongst customers? </li>
+<li>How does pricing fluctuations trend between seasonal periods?</li>
+<li>Does Crime have an impact of pricing and rental ability?</li>
 </ol>
 </i>
 
@@ -24,12 +24,12 @@ I have broken this down into 3 questions:
 
 AirBnb has several review categories that a customer can rate the accommodation based on:
 <ul>
-<li>Accuracy of the Ad<li>
-<li>Cleanliness of the room<li>
-<li>Check in — was it easy?<li>
-<li>Communication with the owner<li>
-<li>Value<li>
-<li>Location<li>
+<li>Accuracy of the Ad</li>
+<li>Cleanliness of the room</li>
+<li>Check in — was it easy?</li>
+<li>Communication with the owner</li>
+<li>Value</li>
+<li>Location</li>
   </ul>
 Combining all these scores gives a total review score out of 10. Scores have been grouped and calculated as a mean of the Neighbourhood.
 We can see most neighbourhoods score very highly in Boston:
